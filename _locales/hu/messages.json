@@ -1,14 +1,14 @@
 {
   "chrome_language": {
-    "message": "en",
+    "message": "hu",
     "description": "language identifier used by Chrome"
   },
   "manifest_name": {
-    "message": "Better History",
+    "message": "Jobb előzmények",
     "description": "Manifest name"
   },
   "manifest_browser_action_title": {
-    "message": "Browse history",
+    "message": "Böngészési előzmények",
     "description": "Manifest browser action title"
   },
   "manifest_description": {
@@ -17,7 +17,7 @@
   },
 
   "history_title": {
-    "message": "History",
+    "message": "Előzmények",
     "description": "Extension title"
   },
 
@@ -62,15 +62,15 @@
   },
 
   "morning": {
-    "message": "AM",
+    "message": "D.E.",
     "description": "The morning abbreviation when using 12 hour time"
   },
   "afternoon": {
-    "message": "PM",
+    "message": "D.U.",
     "description": "The afternoon abbreviation when using 12 hour time"
   },
   "evening": {
-    "message": "PM",
+    "message": "D.U.",
     "description": "The n abbreviation when using 12 hour time"
   },
 
